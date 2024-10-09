@@ -1,0 +1,11 @@
+.blog-card {
+  overflow: hidden;
+}
+
+.blog-card img {
+  transition: transform 0.3s ease-in-out;
+}
+
+.blog-card:hover img {
+  transform: scale(1.1);
+}
